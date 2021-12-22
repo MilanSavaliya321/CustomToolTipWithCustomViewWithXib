@@ -1,4 +1,4 @@
-# CustomToolTip
+# Custom ToolTip
 Fully customisable tooltip view with custom xib or view in Swift for iOS.
 
 Simple way to show tooltip above any UIView you want.
